@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the WebImg Helper app (hereby referred to as "Application") for mobile devices that was created by Keovast.C.Eldest (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the Web Helper app (hereby referred to as "Application") for mobile devices that was created by Keovast.C.Eldest (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
