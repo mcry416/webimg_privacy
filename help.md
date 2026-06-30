@@ -1,8 +1,8 @@
- # WebImg Helper
+ # Web Helper
 
 **Description**
 
-The application (WebImg Helper is referred to as the application below) provides you with convenient assistance for web browsing. Specifically, it includes but is not limited to the following:
+The application (Web Helper is referred to as the application below) provides you with convenient assistance for web browsing. Specifically, it includes but is not limited to the following:
 
 - You can download web content
 - Webpage day and night switching (even if the webpage itself does not support it)
